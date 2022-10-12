@@ -11,7 +11,7 @@
 # 🚦 1. Introduction
 - 온라인 가맹점 방문 고객 예측 알고리즘을 개발하는 공모전이다. (Track 1) [대회 포스터](https://www.samsungcard.com/personal/notice/news/UHPPCC0248M0.jsp?itgBlbdSn=5203&chnlDv=01&itgBlbdTpDvc=01)
 - 최종 1위를 했다.
-- 참가자: 기유진, 윤형준, 정현우
+- 참가자: 정현우, 윤형준, 기유진
 
 ---
 
